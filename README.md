@@ -1,6 +1,6 @@
 # **Tracser**
 
-realtracs.com scraper that alerts when new search results are found
+realtracs.com scraper that sends a notification through AWS SNS when new search results are found
 
 ## **Getting Started**
 
