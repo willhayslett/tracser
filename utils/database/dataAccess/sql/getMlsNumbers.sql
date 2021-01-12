@@ -1,0 +1,1 @@
+SELECT MLS_NUMBER mlsNumber FROM HOME;
